@@ -72,6 +72,7 @@ body, h1, h2, h3, h4
     font-size: 15px;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 .icone-wrapper
 {
@@ -191,11 +192,6 @@ h3
 .title-text
 {
     margin-left: 10px;
-}
-.sidebar-bottom
-{
-    display: flex;
-    justify-content: space-around;
 }
 .section-wrapper
 {
